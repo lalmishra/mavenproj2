@@ -14,7 +14,9 @@ public class Readprop {
 		pr.load(fis);
 		String s = pr.getProperty("myname");
 		System.out.println(s);
-		
+		System.out.println(s);
+		System.out.println(s);
+		System.out.println(s);
 	}
 
 }
